@@ -1,0 +1,21 @@
+.firstbox{
+    background-color: gainsboro;
+    height: 100px;
+}
+.image1{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.main{
+    margin-top: 150px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    
+}
+h1{
+    font-weight: bold;
+}
+p, li{
+    font-size: 18px;
+}
